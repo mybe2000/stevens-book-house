@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "images07A"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "block07A"
+  }
+}

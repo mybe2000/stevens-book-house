@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.name {
+  background-color: rgb(202, 228, 228);
+  padding: 10px;
+}
+
+/* #feedback {
+  margin: 20px;
+} */
+
+.feedback {
+  background-color: rgb(135, 183, 167);
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+#feedback-form {
+  display: flex;
+  justify-content: center;
+}
